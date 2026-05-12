@@ -1,5 +1,5 @@
 # Proyecto Fase 4 - Estabilidad, robustez y manejo de errores
-# Estudiante: Luz Dayanna Salazar Jaraba
+# Estudiante: Andrés Felipe García Gamboa
 
 def main():
     try:
